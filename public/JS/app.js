@@ -1,4 +1,4 @@
-console.log("This is the hidden Javascript file which is loaded in browser")
+
 
 
 const weatherform = document.querySelector('form')
